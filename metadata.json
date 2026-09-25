@@ -1,0 +1,6 @@
+{
+  "name": "DroidPilot",
+  "description": "تطبيق تجريبي للتحكم في واجهة TikTok وقراءة العناصر عبر AccessibilityService وMediaProjection على Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
